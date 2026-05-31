@@ -348,3 +348,13 @@ MIT License - Use and adapt for your own open source growth!
   "keywords": "github stars, open source, growth, developer relations, devrel, community, oss, marketing"
 }
 </script>
+
+## 🔗 Related Gingiris Skills
+
+| Skill | Focus | Install |
+|-------|-------|---------|
+| [gingiris-opensource](https://github.com/Gingiris-1031/gingiris-opensource) | Open Source Launch Marketing | `clawhub install gingiris-opensource` |
+| [gingiris-launch](https://github.com/Gingiris-1031/gingiris-launch) | Product Hunt & Global Launch | `clawhub install gingiris-launch` |
+| [gingiris-seo-geo](https://github.com/Gingiris-1031/gingiris-seo-geo) | SEO & GEO Dual-Engine Growth | `clawhub install gingiris-seo-geo` |
+
+> 📦 **Full collection:** [gingiris-skills](https://github.com/Gingiris-1031/gingiris-skills) — All playbooks in one bundle.

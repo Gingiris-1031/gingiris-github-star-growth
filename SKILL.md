@@ -11,7 +11,7 @@ description: |
   
   Triggers: "GitHub star growth" | "sustained star growth" | "monthly star growth" | "star growth SOP" | "contributor system" | "ambassador program" | "open source community" | "community growth" | "developer community growth" | "star持续增长" | "Star增长" | "开源社区运营" | "贡献者体系"
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: Iris (生姜iris)
   differentiation: "gingiris-opensource covers LAUNCH (72h burst); this skill covers SUSTAINED monthly growth post-launch"
 ---
