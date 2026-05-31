@@ -2,7 +2,7 @@
 
 # ⭐ GitHub Star Sustained Growth Playbook
 
-### Monthly 300+ star growth SOP — From 10K to 60K+ stars, battle-tested with AFFiNE & MemU
+### Monthly 300+ star growth SOP — From 10K to 60K+ stars, battle-tested with AFFiNE & Client Project A
 
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris-1031/gingiris-github-star-growth?style=social)](https://github.com/Gingiris-1031/gingiris-github-star-growth/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Gingiris-1031/gingiris-github-star-growth?style=social)](https://github.com/Gingiris-1031/gingiris-github-star-growth/network/members)
@@ -52,7 +52,7 @@ clawhub install gingiris-github-star-growth
 |:--------|:--------------|:---------|:-------------|
 | **AFFiNE** | 60,000+ | 2023–2026 | Reddit (2000+ stars), HN, KOL matrix, contributor system |
 | **AFFiNE** | 10,000 | 43 days | Launch burst + sustained cadence |
-| **MemU** | 10,000 | 8 months | Monthly 300 SOP + HN Agency + YouTube |
+| **Client Project A** | 10,000 | 8 months | Monthly 300 SOP + HN Agency + YouTube |
 
 ### Monthly Growth Benchmarks
 
@@ -138,7 +138,7 @@ git clone https://github.com/Gingiris-1031/gingiris-github-star-growth.git
 
 **实战数据**：
 - AFFiNE：10K stars in 43 days，当前 60K+
-- MemU：0→10K stars（8个月，月增 300 SOP）
+- Client Project A：0→10K stars（8个月，月增 300 SOP）
 - Reddit 为 AFFiNE 累计贡献 2000+ stars
 
 ### 安装使用
@@ -168,7 +168,7 @@ clawhub install gingiris-github-star-growth
 
 **実績データ**：
 - AFFiNE：43日で10K Star、現在60K+
-- MemU：0→10K Star（8ヶ月、月300 SOP）
+- Client Project A：0→10K Star（8ヶ月、月300 SOP）
 
 ### インストール
 
@@ -197,7 +197,7 @@ clawhub install gingiris-github-star-growth
 
 **실전 데이터**:
 - AFFiNE: 43일 만에 10K 스타, 현재 60K+
-- MemU: 0→10K 스타 (8개월, 월 300 SOP)
+- Client Project A: 0→10K 스타 (8개월, 월 300 SOP)
 
 ### 설치
 
@@ -216,10 +216,10 @@ clawhub install gingiris-github-star-growth
 **A:** You can start with $0 (pure organic: Reddit + Twitter + Dev.to). Adding $500-1000/month for HN Agency + YouTube ads significantly accelerates growth.
 
 ### Q3: How long until I see results?
-**A:** With consistent execution of the monthly SOP, expect to hit 300 stars/month cadence within 2-3 months. MemU achieved 10K stars in 8 months using this exact framework.
+**A:** With consistent execution of the monthly SOP, expect to hit 300 stars/month cadence within 2-3 months. Client Project A achieved 10K stars in 8 months using this exact framework.
 
 ### Q4: Does this work for non-AI projects?
-**A:** Yes. The framework is channel-agnostic. AFFiNE (productivity tool) and MemU (AI) both used this SOP. Adjust subreddit targets and content angles for your niche.
+**A:** Yes. The framework is channel-agnostic. AFFiNE (productivity tool) and Client Project A (AI) both used this SOP. Adjust subreddit targets and content angles for your niche.
 
 ### Q5: How important is the Contributor system?
 **A:** Critical for projects targeting 10K+. Contributors create a virtuous cycle: they star, they evangelize, they bring their networks. AFFiNE's contributor ecosystem was a major growth driver.
@@ -273,7 +273,7 @@ MIT License - Use and adapt for your own open source growth!
   "@context": "https://schema.org",
   "@type": "HowTo",
   "name": "GitHub Star Sustained Growth Playbook",
-  "description": "Monthly 300+ star growth SOP for open source projects. Battle-tested framework that grew AFFiNE from 0 to 60K+ stars and MemU from 0 to 10K stars.",
+  "description": "Monthly 300+ star growth SOP for open source projects. Battle-tested framework that grew AFFiNE from 0 to 60K+ stars and Client Project A from 0 to 10K stars.",
   "author": {
     "@type": "Person",
     "name": "Iris Wei",

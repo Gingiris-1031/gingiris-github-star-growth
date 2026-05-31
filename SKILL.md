@@ -1,13 +1,13 @@
 ---
 name: gingiris-github-star-growth
 description: |
-  🇺🇸 GitHub Star Sustained Growth Playbook — Monthly 300+ star growth SOP. Content rhythm, community ops, event-driven growth, contributor & ambassador systems. Battle-tested: AFFiNE 0→60K+, MemU 0→10K stars.
+  🇺🇸 GitHub Star Sustained Growth Playbook — Monthly 300+ star growth SOP. Content rhythm, community ops, event-driven growth, contributor & ambassador systems. Battle-tested: AFFiNE 0→60K+, Client Project A 0→10K stars.
   
-  🇨🇳 GitHub Star 持续增长实操手册 — 月增 300+ Star 的完整 SOP。内容节奏、社区运营、活动驱动增长、Contributor 与 Ambassador 体系。实战验证：AFFiNE 0→60K+、MemU 0→10K Star。
+  🇨🇳 GitHub Star 持续增长实操手册 — 月增 300+ Star 的完整 SOP。内容节奏、社区运营、活动驱动增长、Contributor 与 Ambassador 体系。实战验证：AFFiNE 0→60K+、Client Project A 0→10K Star。
   
-  🇯🇵 GitHub Star 持続成長プレイブック — 月間300+ Star成長SOP。コンテンツリズム、コミュニティ運営、イベント駆動成長、Contributor＆Ambassadorシステム。実戦検証：AFFiNE 0→60K+、MemU 0→10K Star。
+  🇯🇵 GitHub Star 持続成長プレイブック — 月間300+ Star成長SOP。コンテンツリズム、コミュニティ運営、イベント駆動成長、Contributor＆Ambassadorシステム。実戦検証：AFFiNE 0→60K+、Client Project A 0→10K Star。
   
-  🇰🇷 GitHub Star 지속 성장 플레이북 — 월 300+ 스타 성장 SOP. 콘텐츠 리듬, 커뮤니티 운영, 이벤트 기반 성장, Contributor & Ambassador 시스템. 실전 검증: AFFiNE 0→60K+, MemU 0→10K 스타.
+  🇰🇷 GitHub Star 지속 성장 플레이북 — 월 300+ 스타 성장 SOP. 콘텐츠 리듬, 커뮤니티 운영, 이벤트 기반 성장, Contributor & Ambassador 시스템. 실전 검증: AFFiNE 0→60K+, Client Project A 0→10K 스타.
   
   Triggers: "GitHub star growth" | "sustained star growth" | "monthly star growth" | "star growth SOP" | "contributor system" | "ambassador program" | "open source community" | "community growth" | "developer community growth" | "star持续增长" | "Star增长" | "开源社区运营" | "贡献者体系"
 metadata:
@@ -26,7 +26,7 @@ metadata:
 
 | 指标 | 月度目标 | 数据来源 |
 |:---|:---|:---|
-| **月增 Star** | 300+ | MemU 8个月辅导数据 |
+| **月增 Star** | 300+ | Client Project A 8个月辅导数据 |
 | **内容产出** | 8-12篇/月 | 博客+视频+社交 |
 | **KOL 触达** | 60-80/月 | 每天3-4个 |
 | **社区活动** | 1次线上/月 | 31-34人参与 |
@@ -136,7 +136,7 @@ metadata:
 | 项目 | 成果 | 时间线 | 关键策略 |
 |:---|:---|:---|:---|
 | AFFiNE | 10K stars in 43 days, 60K+ total | 2023-2026 | Reddit(2000+ stars) + HN + KOL + Contributor体系 |
-| MemU | 0→10K stars | 8 个月 | 月度300 SOP + HN Agency + YouTube |
+| Client Project A | 0→10K stars | 8 个月 | 月度300 SOP + HN Agency + YouTube |
 
 ---
 

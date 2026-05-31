@@ -1,7 +1,7 @@
 # GitHub Star 持续增长完整 SOP
 
 > 版本：1.0 | 作者：Iris (生姜iris)
-> 数据来源：AFFiNE (60K+ stars) 实战 + MemU (10K stars) 8个月辅导
+> 数据来源：AFFiNE (60K+ stars) 实战 + Client Project A (10K stars) 8个月辅导
 > 适用阶段：Launch 之后的持续增长期（1K→10K→60K+）
 
 ---
@@ -401,7 +401,7 @@ Ambassador ≠ Contributor。Ambassador 是**非代码贡献者**，通过内容
 ## 十二、常见问题
 
 ### Q: 300 star/月 的目标合理吗？
-**A:** 对于有一定基础（1K+ star）的活跃项目来说，300/月是可持续的中等目标。AFFiNE 高峰期月增数千，MemU 稳定月增 300。关键是持续性，不是单月爆发。
+**A:** 对于有一定基础（1K+ star）的活跃项目来说，300/月是可持续的中等目标。AFFiNE 高峰期月增数千，Client Project A 稳定月增 300。关键是持续性，不是单月爆发。
 
 ### Q: 预算为 0 怎么办？
 **A:** 纯有机渠道：Reddit + HN 自行提交 + Twitter + Dev.to。需要更多时间投入（每天 1-2 小时），但可以做到月增 100-200 star。
@@ -414,4 +414,4 @@ Ambassador ≠ Contributor。Ambassador 是**非代码贡献者**，通过内容
 
 ---
 
-*本文档基于 AFFiNE (60K+ stars) 和 MemU (10K stars) 的实战经验编写。数据均为真实执行数据，非推测。*
+*本文档基于 AFFiNE (60K+ stars) 和 Client Project A (10K stars) 的实战经验编写。数据均为真实执行数据，非推测。*
