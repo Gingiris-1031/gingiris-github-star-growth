@@ -1,14 +1,17 @@
 ---
 name: gingiris-github-star-growth
 description: |
-  🇺🇸 GitHub Star Sustained Growth Playbook — Monthly 300+ star growth SOP. Content rhythm, community ops, event-driven growth, contributor & ambassador systems. Battle-tested: AFFiNE 0→60K+, Client Project A 0→10K stars.
-  
-  🇨🇳 GitHub Star 持续增长实操手册 — 月增 300+ Star 的完整 SOP。内容节奏、社区运营、活动驱动增长、Contributor 与 Ambassador 体系。实战验证：AFFiNE 0→60K+、Client Project A 0→10K Star。
-  
-  🇯🇵 GitHub Star 持続成長プレイブック — 月間300+ Star成長SOP。コンテンツリズム、コミュニティ運営、イベント駆動成長、Contributor＆Ambassadorシステム。実戦検証：AFFiNE 0→60K+、Client Project A 0→10K Star。
-  
-  🇰🇷 GitHub Star 지속 성장 플레이북 — 월 300+ 스타 성장 SOP. 콘텐츠 리듬, 커뮤니티 운영, 이벤트 기반 성장, Contributor & Ambassador 시스템. 실전 검증: AFFiNE 0→60K+, Client Project A 0→10K 스타.
-  
+  Your launch spike is over. Stars flatlined. How do you maintain 300+ stars per month without another viral moment? This is the sustained growth engine — repeatable activities, not one-time hacks.
+
+  What's inside:
+  • Monthly growth engine (systematic activities that compound to 300+ stars/month)
+  • Content calendar for maximum developer community impact
+  • Community nurturing (contributor → maintainer pipeline)
+  • Cross-pollination with adjacent repos and ecosystems
+  • Seasonal opportunities (Hacktoberfest, conferences, trending events)
+
+  Built from: AFFiNE sustained from initial spike to 60K+ through compounding community growth. Client Project A: 8 months sustained coaching data.
+
   Triggers: "GitHub star growth" | "sustained star growth" | "monthly star growth" | "star growth SOP" | "contributor system" | "ambassador program" | "open source community" | "community growth" | "developer community growth" | "star持续增长" | "Star增长" | "开源社区运营" | "贡献者体系"
 metadata:
   version: 1.0.1
@@ -19,6 +22,18 @@ metadata:
 # GitHub Star 持续增长实操手册
 
 > ⚠️ **Scope Differentiation**: `gingiris-opensource` = Launch burst (0→1K in 72h). **This skill** = Sustained monthly growth (1K→10K→60K+).
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-github-star-growth
+```
+
+**What you get after installing:**
+- Month-over-month 300+ star growth engine (systematic, not one-time hacks)
+- Content calendar and community nurturing pipeline
+- Seasonal opportunity playbook (Hacktoberfest, conferences, trending events)
+
 
 ---
 
@@ -143,3 +158,15 @@ metadata:
 ## 完整 SOP 参考
 
 详见 [references/full-sop.md](references/full-sop.md) — 包含日/周/月完整执行清单、模板、工具链推荐。
+
+
+---
+
+## 🔗 About the Author
+
+**Iris Wei** — Growth consultant for 150+ AI startups. Ex-COO at AFFiNE (69K GitHub stars).
+
+- 🐦 Twitter: [@WeiYipei](https://twitter.com/WeiYipei) — Daily growth tactics
+- 💬 Consulting: [@Iris_carrot on Telegram](https://t.me/Iris_carrot)
+- 🛒 Premium Bundle (all 5 playbooks + templates): [Get on Gumroad ($249)](https://gingiris.gumroad.com/l/gingiris-complete-global-launch-bundle)
+- 📚 40+ Free Playbooks: [gingiris.tools/skills](https://gingiris.tools/skills/)
